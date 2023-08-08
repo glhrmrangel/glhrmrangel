@@ -23,5 +23,5 @@ I'm currently looking for a new opportunity where I can contribute, learn and gr
 <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glhrmrangel&layout=compact&langs_count=10&theme=omni&card_width=500"/>
-  <img src="https://media.tenor.com/gJGXNVLiLLkAAAAd/gear-5-gear-5-luffy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gear 5">
 </div>
+  <img src="https://media.tenor.com/gJGXNVLiLLkAAAAd/gear-5-gear-5-luffy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gear 5">
