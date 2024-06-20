@@ -8,8 +8,6 @@ I have a Bachelor's Degree in Computer Science and currently am enrolled in a Po
 
 I am a developer focused mainly on Back-End, with the desire to move to full-stack eventually, as well as becoming somewhat of a Software Architect.
 
-I'm currently looking for a new opportunity where I can contribute, learn and grow as a developer!
-
 ### My contact info: <br>
 <a href="https://www.linkedin.com/in/glhrmjrangel/" target="_blank"><img src="https://i.imgur.com/cQZE8C8.png" alt="Linkedin Badge" /></a>
 <a href="mailto:glhrmhrangel@gmail.com" target="_blank"><img src="https://i.imgur.com/wOdadgd.png" alt="Gmail Badge" /></a>
